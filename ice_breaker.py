@@ -38,3 +38,5 @@ if __name__ == "__main__":
     linkedin_data = linkedin_profile_url
     # linkedin_data = scrape_linkedin_profiles(linkedin_profile_url=linkedin_profile_url)
     print(chain.run(information=linkedin_data))
+
+    #salut
